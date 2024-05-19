@@ -23,7 +23,6 @@ DEVS = [
     479344690,  #Layap
     1992087933, #Xeencok
     1825884290, #kentungkntl
-    1623431940, #Dareen2
 ]
 
 
